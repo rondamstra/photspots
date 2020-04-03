@@ -7,9 +7,15 @@ For the map functionality we use Open Streetmaps.
 If you want to contribute to this project, create a cnf folder in the photspots_project directory, and create file mysql.cnf with your local database settings.
 
 # mysql.cnf
+
 [client]
+
 database = %DBNAME%
+
 user = %USERNAME%
+
 password =%PASSWORD%
+
 host = localhost
+
 port = 3307
