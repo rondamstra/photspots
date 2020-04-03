@@ -179,4 +179,4 @@ Desktop.ini
 .DS_Store
 
 # Project specific
-settings/production.py
+/photspots_project/settings/production.py
