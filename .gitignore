@@ -180,3 +180,7 @@ Desktop.ini
 
 # Project specific
 /photspots_project/settings/production.py
+/.idea/misc.xml
+/.idea/inspectionProfiles/profiles_settings.xml
+/.idea/rSettings.xml
+/.idea/vcs.xml
